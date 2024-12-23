@@ -1,4 +1,4 @@
-![Dashboard preview](Dashboard.png)
+![Dashboard preview](Dashboard/Dashboard.png)
 
 # Customer Segmentation & Campaign Effectiveness: A Data-Driven Analysis
 
